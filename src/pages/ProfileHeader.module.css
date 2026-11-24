@@ -1,0 +1,5 @@
+.app-container { max-width: 480px; margin: 0 auto; }
+.header { margin-bottom: 24px; display: flex; justify-content: space-between; align-items: center; }
+.logo { font-size: 68px; font-weight: 800; letter-spacing: -1px; background: linear-gradient(135deg, #252B39, #3A4455); background-clip: text; -webkit-background-clip: text; color: transparent; }
+.edit-icon { background: #FFFFFF; width: 48px; height: 48px; border-radius: 30px; display: flex; align-items: center; justify-content: center; cursor: pointer; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05); border: 1px solid #E0E4EA; transition: all 0.2s; color: #F4C165; font-size: 24px; }
+.edit-icon:active { transform: scale(0.95); }
